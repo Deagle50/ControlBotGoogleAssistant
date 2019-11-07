@@ -1,0 +1,208 @@
+[
+  {
+    "id": "588990f5-d6ea-408e-874d-31e3e65c1869",
+    "data": [
+      {
+        "text": "consultar pedido ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c732e00-bccd-40e0-b034-ab9f20a40b75",
+    "data": [
+      {
+        "text": "estado pedido ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a32786f9-2e6f-4d60-88f9-1c6f4cfb3494",
+    "data": [
+      {
+        "text": "piezas ulma",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c18ebcc3-0146-4942-9a42-e7de3fc8329d",
+    "data": [
+      {
+        "text": "¿cuánto falta para que lleguen las ",
+        "userDefined": false
+      },
+      {
+        "text": "piezas de ulma",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8323f78-b9a5-417a-81a6-e8fd282f53dd",
+    "data": [
+      {
+        "text": "consultar envío de ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a9d21d6-8dea-4e72-aacd-a59b31977cd0",
+    "data": [
+      {
+        "text": "consultar ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba59ccf5-42bc-4273-aa2d-f5eb5c61dd69",
+    "data": [
+      {
+        "text": "envío de ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c900a7ce-7ad6-49e9-b28c-ac909df6693d",
+    "data": [
+      {
+        "text": "¿Cuánto tiempo van a tardar en llegar las ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41a9ac00-8e27-4620-8fac-f76f2e25daa4",
+    "data": [
+      {
+        "text": "pedido de ",
+        "userDefined": false
+      },
+      {
+        "text": "piezas de ulma",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6365622-c37b-4ff5-8930-0a1f430d438e",
+    "data": [
+      {
+        "text": "Consultar pedido de ",
+        "userDefined": false
+      },
+      {
+        "text": "tulipas",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bb2e92d-09e3-4473-ad89-cabf5501615d",
+    "data": [
+      {
+        "text": "¿Cuándo van a llegar las ",
+        "userDefined": false
+      },
+      {
+        "text": "piezas de ulma",
+        "alias": "Pedidos",
+        "meta": "@Pedidos",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

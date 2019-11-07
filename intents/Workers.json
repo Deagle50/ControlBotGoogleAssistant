@@ -1,0 +1,31 @@
+{
+  "id": "054177e7-304b-4b51-84a6-65dfcf958044",
+  "name": "Workers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Todos los trabajadores están haciendo sus labores, aunque, como sabes, Trabajador 1 está de vacaciones, y trabajador 15 sigue de baja"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

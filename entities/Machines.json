@@ -1,0 +1,9 @@
+{
+  "id": "74e21157-e68e-4557-9b3d-7e54424f0941",
+  "name": "Machines",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

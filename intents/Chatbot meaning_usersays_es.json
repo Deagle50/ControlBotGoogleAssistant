@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cb4daca3-61e0-4c95-a2a1-c8774059cbe3",
+    "data": [
+      {
+        "text": "¿Qué  hace ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chatbot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08d3159f-016b-49e2-9db7-a70fc128e511",
+    "data": [
+      {
+        "text": "Cuál es el significado de chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c396b16f-bd39-44ea-8207-137799f6afd7",
+    "data": [
+      {
+        "text": "Significado de chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3b17f00-c384-48e8-a513-6bb4aedc335e",
+    "data": [
+      {
+        "text": "Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chatbot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

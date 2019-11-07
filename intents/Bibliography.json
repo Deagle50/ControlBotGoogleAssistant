@@ -1,0 +1,31 @@
+{
+  "id": "7ee2cd52-c1a4-46f5-ad98-18b0c9912827",
+  "name": "Bibliography",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "La información de los chatbots la he sacado de:\nhttps://www.softwebsolutions.com/resources/integrate-AI-powered-chatbot.html.\ny de \nhttps://botcore.ai/blog/every-erp-system-needs-an-ai-chatbot-heres-why/.\nPor otro lado, la referente a mí, el Asistente de Google, la he conseguido en\nhttps://developers.google.com/assistant"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

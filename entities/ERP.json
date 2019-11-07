@@ -1,0 +1,9 @@
+{
+  "id": "ffec870e-a191-46f0-9bf6-0a4bf69d0b4c",
+  "name": "ERP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

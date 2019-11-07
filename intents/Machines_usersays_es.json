@@ -1,0 +1,230 @@
+[
+  {
+    "id": "6670bec5-ac10-4b8e-a9cc-b1d9166d533f",
+    "data": [
+      {
+        "text": "comprobar ",
+        "userDefined": false
+      },
+      {
+        "text": "máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a6c64ba-2358-43bf-9ff3-76042b896056",
+    "data": [
+      {
+        "text": "verificar estado ",
+        "userDefined": false
+      },
+      {
+        "text": "tornos",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44be6a72-d95d-436e-9911-b7ef42c0fc4b",
+    "data": [
+      {
+        "text": "verificar el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a67a773d-3ba2-4929-ad63-e2797d289ef5",
+    "data": [
+      {
+        "text": "¿Qué tal es el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abf6bb94-7d3e-4dbf-987e-b280fe54e11f",
+    "data": [
+      {
+        "text": "¿Qué tal están funcionando ",
+        "userDefined": false
+      },
+      {
+        "text": "las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbc06b71-fc5e-4ac1-84a0-20e31f6fb48f",
+    "data": [
+      {
+        "text": "¿Cuál es el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa419d5a-cfa4-42de-b2fb-f96e77232218",
+    "data": [
+      {
+        "text": "estado ",
+        "userDefined": false
+      },
+      {
+        "text": "tornos",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13abcc69-e145-4676-a2e7-3d6f879163d6",
+    "data": [
+      {
+        "text": "comprobar estado ",
+        "userDefined": false
+      },
+      {
+        "text": "máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d192ba88-bdd1-4348-b820-ea44c7a4e59e",
+    "data": [
+      {
+        "text": "quiero saber el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de los tornos",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "798a4d30-f134-4e09-a06f-85aaa4f49b31",
+    "data": [
+      {
+        "text": "quiero saber el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "273a7799-80e5-4457-abfc-c023a1fb21db",
+    "data": [
+      {
+        "text": "ver el estado ",
+        "userDefined": false
+      },
+      {
+        "text": "de las máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82106cba-0866-4ae3-9bb4-a2faf9a7b122",
+    "data": [
+      {
+        "text": "Consultar estado ",
+        "userDefined": false
+      },
+      {
+        "text": "máquinas",
+        "alias": "Machines",
+        "meta": "@Machines",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

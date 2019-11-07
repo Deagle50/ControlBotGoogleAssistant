@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e4367bb5-2e02-4465-ae5b-2ba04b03616e",
+    "data": [
+      {
+        "text": "Dime el estado de los trabajadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67576ae4-61cf-4ba5-b363-802cf48c5bd5",
+    "data": [
+      {
+        "text": "Quiero consultar el estado de los trabajadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eabb210e-f3a9-4a0c-8092-2e6a81017150",
+    "data": [
+      {
+        "text": "¿Cómo lo están haciendo los trabajadores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b1d8df7-603a-48f1-ba9d-19218652b5da",
+    "data": [
+      {
+        "text": "¿Cómo están trabajando los trabajadores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c93f8324-7422-4804-b327-0651f1883729",
+    "data": [
+      {
+        "text": "Consultar estado de los trabajadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48b42b6f-78fd-4289-8f2e-d75f67be264d",
+    "data": [
+      {
+        "text": "Estado de los trabajadores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

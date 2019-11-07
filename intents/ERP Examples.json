@@ -1,0 +1,50 @@
+{
+  "id": "eb3ba025-a15a-46f2-ab45-a4bc95803674",
+  "name": "ERP Examples",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd8de3a1-0478-4c46-92e6-cec7bc11dfc7",
+          "required": false,
+          "dataType": "@ERP",
+          "name": "ERP",
+          "value": "$ERP",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Algunos ejemplos de ERP son: códigos QR para acceder a productos, inteligencia artificial para prever rupturas de stock o nuevas demandas, chatbots para consultar estados de pedidos, de máquinas, trabajadores...",
+            "Las ERP se pueden aplicar para consultar estados de bienes de la empresa, para prever cambios y ayudar a tomar decisiones",
+            "Pueden ayudar en las compras, automatizándolas, crear presupuestos para las ventas y hacer facturas entre muchas otras opciones",
+            "Este software puede mejorar las relaciones de Recursos Humanos, haciendo registros de los empleados, sus nóminas y fichas con sus datos",
+            "Uno de los usos típicos de los chatbot en ERP es en logística, donde pueden cuantificar los productos en stock, hacer inventarios, e incluso pedidos justo a tiempo para no tener rupturas de stock, preveyendo las mismas con anterioridad gracias a la Inteligencia Artificial"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

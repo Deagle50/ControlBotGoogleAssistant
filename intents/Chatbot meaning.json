@@ -1,0 +1,37 @@
+{
+  "id": "0b4a1a09-08b2-455d-8901-79b7eda1c227",
+  "name": "Chatbot meaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Es un programa que intenta mantener una conversación con el usuario, con fin de facilitarle información o ayudarle en sus tareas.",
+            "Es una aplicación controlada por el ordenador, que ayuda mediante conversaciones al usuario en tareas, ya sean laborales o de ocio.",
+            "Los chatbots somos programas controlados por la máquina que intentamos ayudaros a los humanos en el día a día.",
+            "Son programas apoyados por inteligencia artificial y machine learning que mediante conversaciones ayudan a los usuarios.",
+            "Son aplicaciones con inteligencia propia, que dan respuestas por chat o incluso por voz"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

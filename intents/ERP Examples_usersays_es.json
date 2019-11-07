@@ -1,0 +1,120 @@
+[
+  {
+    "id": "e7e01db8-f534-4c2e-96cd-172b07bbd739",
+    "data": [
+      {
+        "text": "Dime más ejemplos de ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e156a8c-e3f8-449b-af8e-7ad36684ded2",
+    "data": [
+      {
+        "text": "Otro ejemplo de ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b95fba14-da58-4fcf-8466-8dcf3623d751",
+    "data": [
+      {
+        "text": "Otro ejemplo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6945268-bb2f-41f9-b120-716d77bd3ba9",
+    "data": [
+      {
+        "text": "Dime más ejemplos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a540da1c-64b7-4d14-bccb-21a6f092886e",
+    "data": [
+      {
+        "text": "ejemplos de ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27e95f2c-0f9f-44f1-b0ab-8bdf5cf87aa0",
+    "data": [
+      {
+        "text": "¿Cuáles son ejemplos de ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f707ada4-9244-4154-b4b6-c75d0aeb0ead",
+    "data": [
+      {
+        "text": "Dime ejemplos de ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

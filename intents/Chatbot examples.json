@@ -1,0 +1,36 @@
+{
+  "id": "5086129b-aa1c-4e88-a0ed-3cae20756ea9",
+  "name": "Chatbot examples",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Podemos añadir datos a bases de datos, o mostrarlos con comandos de voz",
+            "Un ejemplo sería obtener datos de bases de datos rápidamente",
+            "Ayudamos en la toma de decisiones, avisando cuándo hay que hacer pedidos o dando información sobre los pedidos ya existentes.",
+            "Damos información sobre el estado de diversos factores de la empresa, como sus máquinas, trabajadores, e incluso aconsejamos sobre cómo actuar en diferentes situaciones"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

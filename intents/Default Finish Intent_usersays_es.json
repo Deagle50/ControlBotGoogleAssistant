@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f80ddca6-ced6-405d-9afd-771aac3d1e46",
+    "data": [
+      {
+        "text": "Cerrar sesión",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2283d9ac-6175-411d-b1fb-f42c7bcc76f2",
+    "data": [
+      {
+        "text": "Finalizar sesión",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8b2126a-a073-4425-a843-927723c7c333",
+    "data": [
+      {
+        "text": "Salir de control chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ba0672f-9647-4616-a1ee-f333714032eb",
+    "data": [
+      {
+        "text": "Cerrar control chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd6c7398-b5f8-4506-8353-602878698602",
+    "data": [
+      {
+        "text": "Cerrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df0f0d55-d199-4c47-b67e-c8bf26880e49",
+    "data": [
+      {
+        "text": "Salir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

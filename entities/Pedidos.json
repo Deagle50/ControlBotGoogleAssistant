@@ -1,0 +1,9 @@
+{
+  "id": "5a603bae-28ed-40c8-a5b6-d4ee7b1d2b67",
+  "name": "Pedidos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

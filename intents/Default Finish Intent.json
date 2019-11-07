@@ -1,0 +1,36 @@
+{
+  "id": "1762f521-9f9c-417a-aecf-9c4732de5577",
+  "name": "Default Finish Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "¡Hasta la próxima!",
+            "¡Nos vemos! (o nos oímos...)",
+            "De acuerdo, cerrando aplicación",
+            "Saliendo"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

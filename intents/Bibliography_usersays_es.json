@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f7f6b06c-6281-40ca-ae65-5cb519ced0a1",
+    "data": [
+      {
+        "text": "Dime la bibliografía",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "303a4f3f-0e97-4766-b2e5-58f537f58049",
+    "data": [
+      {
+        "text": "¿De dónde has sacado la información?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ea56c79-49ca-474e-85bd-995d9aaca1fb",
+    "data": [
+      {
+        "text": "¿De dónde has sacado toda esa información?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af574665-1231-494d-bf41-ce0a62ce5658",
+    "data": [
+      {
+        "text": "Bibliografía",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

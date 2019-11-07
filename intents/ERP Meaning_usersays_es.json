@@ -1,0 +1,153 @@
+[
+  {
+    "id": "5d3cfe3d-8b8a-49ad-b912-d7f106e65010",
+    "data": [
+      {
+        "text": "¿qué significa ",
+        "userDefined": false
+      },
+      {
+        "text": "erp",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d234946-1516-43a4-ab52-27450436277a",
+    "data": [
+      {
+        "text": "¿Podrías decirme qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "una erp",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33375d9c-5a15-4f18-89d3-aebfd1931036",
+    "data": [
+      {
+        "text": "dime qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spr",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18795483-898d-4070-9d27-b2781ce834a8",
+    "data": [
+      {
+        "text": "¿cuál es el significado de  ",
+        "userDefined": false
+      },
+      {
+        "text": "sistema de planificación de recursos",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "938db615-7794-40fb-acef-8115f488cd50",
+    "data": [
+      {
+        "text": "¿Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "erp",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aa99b2e-11c4-419d-97e2-72e39fd8f8d6",
+    "data": [
+      {
+        "text": "Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ERP",
+        "alias": "ERP",
+        "meta": "@ERP",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

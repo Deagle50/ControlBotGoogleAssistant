@@ -1,0 +1,48 @@
+{
+  "id": "9f4f15bd-79d3-40a1-a264-7052d7ea15e1",
+  "name": "ERP Meaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7543905c-d946-4ae0-8273-3f8b42edbf3a",
+          "required": false,
+          "dataType": "@ERP",
+          "name": "ERP",
+          "value": "$ERP",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Enterprise Resource Planning o sistema de planificación de recursos empresariales, son programas que ayudan en ciertas operaciones en una empresa, ya sea en Recursos Humanos, en producción, etcétera.",
+            "Una ERP es un conjunto de programas que ayudan a las empresas en diversas tareas",
+            "Un Sistema de planificación de recursos empresariales es software que colabora con la empresa facilitando tareas en áreas como la producción y logística"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
